@@ -1,6 +1,6 @@
 # Async Fetch
 
-This is a simple exercise that uses ffi to asynchronously download files using go coroutines.
+This is a simple exercise that uses PHP FFI to asynchronously download files using go coroutines.
 
 ## How to run?
 

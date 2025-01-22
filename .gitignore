@@ -1,0 +1,4 @@
+asyncfetch.h
+asyncfetch.so
+.idea/*
+.vscode/*

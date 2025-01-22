@@ -13,3 +13,7 @@ Make sure you have `ffi.enable=true` in your `php.ini`.
 ### Run
 
     php asyncFetch.php
+
+## References
+
+https://github.com/eislambey/php-ffi-go-example.git
